@@ -27,6 +27,6 @@ Within each product repository you will find:
 <details>
 <summary>FAQ's</summary>
 <br>
-A list of technical FAQ's regarding OMM Topography
+A list of technical FAQ's regarding OS Open Zoomstack
 </details>
 
